@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "381a6c335e38e70e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e03e330613a4e98",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ab2148017208ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "chapters/01_intro.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "01_intro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "746768a5a645132e",
+    "type": "split",
+    "children": [
+      {
+        "id": "465cfc99b17c1ec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75440a5826dba70e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8654a5f91e6d66f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "256d6483530174e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6480e60a79689eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "308c91d1fab77e4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91711905d4e55b88",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "chapters/03_art.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 03_art"
+            }
+          },
+          {
+            "id": "a878ca922a18d7c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "chapters/03_art.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 03_art"
+            }
+          },
+          {
+            "id": "3e2b277a5a80e22e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "492b2a89faaa950d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "chapters/03_art.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 03_art"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e2ab2148017208ba",
+  "lastOpenFiles": [
+    "sedUe51BK",
+    "sedNUdzTy",
+    "abstract.md",
+    "resumen.md",
+    "acknowledgements.md",
+    "acronyms.md",
+    "authorship.md",
+    "dedication.md",
+    "chapters/03_art.md",
+    "sedaTEWPc",
+    "chapters/01_intro.md",
+    "sed8DHluF",
+    "sedGMQoX4",
+    "chapters/02_goals.md",
+    "chapters/04_methodology.md",
+    "chapters/05_results.md",
+    "chapters/06_conclusions.md",
+    "sedy8WNK3",
+    "appendices/02_ap2.md",
+    "appendices/01_elementos.md",
+    "sedwvbUhw",
+    "resources/bibliography/files/93/2305.html",
+    "resources/bibliography/files/92/Khan et al. - 2023 - Behavioral Forensics in Social Networks Identifyi.pdf",
+    "resources/bibliography/files/90/2005.html",
+    "resources/bibliography/files/9/Allcott y Gentzkow - 2017 - Social Media and Fake News in the 2016 Election.pdf",
+    "resources/images/03_01_dirichlet_diagram.png",
+    "resources/images/03_dirichlet_diagram.png",
+    "Untitled.md",
+    "chapters/06_conclusiones.md",
+    "chapters/05_resultados.md",
+    "chapters/04_metodologia.md",
+    "chapters/03_arte.md"
+  ]
+}
